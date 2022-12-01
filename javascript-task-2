@@ -1,0 +1,39 @@
+var a=35
+var b=25
+function add(){
+sum=a+b;
+console.log(sum);
+}
+add();
+
+// 2nd function
+var a=35
+var b=25
+function mul(){
+multiply=a*b;
+console.log(multiply);
+}
+mul();
+
+// 3rd function
+var a=35
+var b=25
+function division(){
+div=a/b;
+console.log(div);
+}
+division();
+
+// 4th function
+var a=35
+var b=25
+function subtraction(){
+subtract=a-b;
+console.log(subtract);
+}
+subtraction();
+
+
+
+
+
